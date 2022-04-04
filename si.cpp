@@ -1,4 +1,5 @@
 #include <iostream>
+using namespace std;
 int main(){
-    sttd: cout << "ola" << endl;
+    cout << "ola" << endl;
 }
